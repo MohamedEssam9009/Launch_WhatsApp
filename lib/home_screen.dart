@@ -36,9 +36,10 @@ class HomeScreen extends StatelessWidget {
                 child: Text(
                   'Open WhatsApp',
                   style: TextStyle(
-                      fontSize: 18.0,
-                      color: Colors.black,
-                      fontWeight: FontWeight.bold,),
+                    fontSize: 18.0,
+                    color: Colors.black,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
               ),
             ),
